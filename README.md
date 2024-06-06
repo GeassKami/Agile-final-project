@@ -1,2 +1,2 @@
-# Final-Project-Overview-and-Scenario_E-commerce
-Project for coursera honours certification
+# Agile-final-project
+Project for Coursera Honours certification
